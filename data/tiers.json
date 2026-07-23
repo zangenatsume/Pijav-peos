@@ -34,5 +34,29 @@
     "server": null,
     "last_time_tested": "eu",
     "is_retired": false
+  },
+  "1195742972088701068": {
+    "discord_id": 1195742972088701068,
+    "uuid": "okfiaiaa",
+    "minecraft_username": "okfiaiaa",
+    "tier": "Unranked",
+    "peak_tier": "Unranked",
+    "points": 0,
+    "region": "as",
+    "server": "mctiers",
+    "last_time_tested": null,
+    "is_retired": false
+  },
+  "1164871388436365364": {
+    "discord_id": 1164871388436365364,
+    "uuid": "astarte",
+    "minecraft_username": "afeb7ed1e3534aa8b9cd2890ffbcb688",
+    "tier": "LT3",
+    "peak_tier": 6,
+    "points": false,
+    "region": "as",
+    "server": "playayaya",
+    "last_time_tested": "LT3",
+    "is_retired": false
   }
 }
