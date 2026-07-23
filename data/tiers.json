@@ -30,8 +30,8 @@
     "tier": "LT3",
     "peak_tier": 6,
     "points": false,
-    "region": null,
-    "server": null,
+    "region": "eu",
+    "server": "idk",
     "last_time_tested": "eu",
     "is_retired": false
   },
@@ -39,12 +39,12 @@
     "discord_id": 1195742972088701068,
     "uuid": "okfiaiaa",
     "minecraft_username": "okfiaiaa",
-    "tier": "Unranked",
-    "peak_tier": "Unranked",
-    "points": 0,
+    "tier": "HT3",
+    "peak_tier": 10,
+    "points": false,
     "region": "as",
     "server": "mctiers",
-    "last_time_tested": null,
+    "last_time_tested": "as",
     "is_retired": false
   },
   "1164871388436365364": {
