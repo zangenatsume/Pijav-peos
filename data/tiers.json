@@ -1,0 +1,38 @@
+{
+  "1426974647349415977": {
+    "discord_id": 1426974647349415977,
+    "uuid": "46Ghost",
+    "minecraft_username": "9b73470a17b742e8a6b5af6a5285254e",
+    "tier": "Unranked",
+    "peak_tier": "Unranked",
+    "points": 0,
+    "region": "as",
+    "server": "Oaks",
+    "last_time_tested": null,
+    "is_retired": false
+  },
+  "1488163662677147689": {
+    "discord_id": 1488163662677147689,
+    "uuid": "zAngel",
+    "minecraft_username": "319ee5490a7a47fa8c714201c5397a4d",
+    "tier": "Unranked",
+    "peak_tier": "Unranked",
+    "points": 0,
+    "region": "as",
+    "server": "mcpvp.club",
+    "last_time_tested": null,
+    "is_retired": false
+  },
+  "1451287060358103091": {
+    "discord_id": 1451287060358103091,
+    "uuid": "LexAmarni0",
+    "minecraft_username": "0fac97140c004ac0b90c9a3dcdc21131",
+    "tier": "LT3",
+    "peak_tier": 6,
+    "points": false,
+    "region": null,
+    "server": null,
+    "last_time_tested": "eu",
+    "is_retired": false
+  }
+}
